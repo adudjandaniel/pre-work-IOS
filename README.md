@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## App-1
 
 ### App Description
 This is a basic IOS app - a pre-work project for CodePath (codepath.org)
